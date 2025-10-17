@@ -75,7 +75,7 @@ src/
 ✅ GitHub repository  
 
 ## 👨‍💻 Author
-Alok kumar Gupta
+Alok Gupta
 
 ## 📝 License
 This project is open source and available under the MIT License.
